@@ -6,7 +6,7 @@ public class CAP02EJ06 {
     total=base+iva;
     System.out.printf("%-14s\t%5.2f%n", "Base imponible",base);
     System.out.printf("%-14s\t%5.2f%n", "IVA",iva);
-    System.out.printf("---------------------%n", args);
+    System.out.println("---------------------");
     System.out.printf("%-14s\t%5.2f%n", "Total",total);
    } 
 }
